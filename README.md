@@ -194,9 +194,9 @@ node_modules/_eslint-plugin-react@7.20.0@eslint-plugin-react/package.json
 - - -
 
 ### 参考
-[Yeoman: generator-eslint](https://www.npmjs.com/package/generator-eslint)
-[ESLint: Working with Plugins](https://eslint.org/docs/developer-guide/working-with-plugins)
-[ESLint: RuleTester](https://eslint.org/docs/developer-guide/nodejs-api#ruletester)
-[ESLint: Installation and Usage](https://eslint.org/docs/user-guide/getting-started#installation-and-usage)
-[ESLint: Configuring Plugins](https://eslint.org/docs/user-guide/configuring#configuring-plugins)
+[Yeoman: generator-eslint](https://www.npmjs.com/package/generator-eslint)  
+[ESLint: Working with Plugins](https://eslint.org/docs/developer-guide/working-with-plugins)  
+[ESLint: RuleTester](https://eslint.org/docs/developer-guide/nodejs-api#ruletester)  
+[ESLint: Installation and Usage](https://eslint.org/docs/user-guide/getting-started#installation-and-usage)  
+[ESLint: Configuring Plugins](https://eslint.org/docs/user-guide/configuring#configuring-plugins)  
 [Debugging tests in VS Code](https://github.com/Microsoft/vscode-recipes/tree/master/debugging-mocha-tests)
