@@ -138,12 +138,12 @@ $ npm i -D eslint
 }
 ```
 
-#### （4）使用 eslint 进行检查的文件 index.js
+#### 2.4 使用 eslint 进行检查的文件 index.js
 ```
 const xyz = 2;
 ```
 
-#### （5）执行检查
+#### 2.5 执行检查
 ```
 $ npm run lint
 
